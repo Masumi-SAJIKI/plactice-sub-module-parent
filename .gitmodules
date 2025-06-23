@@ -1,0 +1,3 @@
+[submodule "plactice-sub-module-child"]
+	path = plactice-sub-module-child
+	url = https://github.com/Masumi-SAJIKI/plactice-sub-module-child.git
